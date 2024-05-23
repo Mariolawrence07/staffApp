@@ -1,0 +1,6 @@
+<!-- dot_selected.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FF0000" /> <!-- Set the color for the selected dot -->
+    <size android:width="12dp" android:height="12dp" /> <!-- Set the size of the dot -->
+    <corners android:radius="6dp" /> <!-- Make the dot round by setting the corner radius -->
+</shape>

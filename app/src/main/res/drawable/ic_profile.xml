@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FF0000" /> <!-- Set the color of the profile icon -->
+    <size android:width="24dp" android:height="24dp" /> <!-- Set the size of the profile icon -->
+</shape>

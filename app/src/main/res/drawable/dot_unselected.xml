@@ -1,0 +1,6 @@
+<!-- dot_unselected.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#CCCCCC" /> <!-- Set the color for the unselected dot -->
+    <size android:width="8dp" android:height="8dp" /> <!-- Set the size of the dot -->
+    <corners android:radius="4dp" /> <!-- Make the dot round by setting the corner radius -->
+</shape>

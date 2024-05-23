@@ -1,0 +1,49 @@
+{
+  "classes": [
+    {
+      "Lecturer": "Kelvin Hilton",
+      "Title": "Mobile Application Development",
+      "code": "COWB70385-2022-SPG2-2022-SPG2",
+      "Description": "Taught software engineering, system modelling and design, mobile computing, and a number of programming languages for over 20 years. Previously worked as Technical Pre-Sales consultant in wireless middleware technologies and as a developer both within industry and as a consultant.",
+      "CoverImage": "cadmanstudio",
+      "lat": 53.170494,
+      "long": -2.353007
+    },
+    {
+      "Lecturer": "George Great",
+      "Title": "Web Application Development",
+      "code": "COWB70685-2022-SPG2-2022-SPG2",
+      "Description": "Taught software engineering, system modelling and design, mobile computing, and a number of programming languages for over 20 years. Previously worked as Technical Pre-Sales consultant in wireless middleware technologies and as a developer both within industry and as a consultant.",
+      "CoverImage": "mellor",
+      "lat": 53.170494,
+      "long": -2.353007
+    },
+    {
+      "Lecturer": "Chris Mike",
+      "Title": "Enterprise Application Development",
+      "code": "COWB70785-2022-SPG2-2022-SPG2",
+      "Description": "Taught software engineering, system modelling and design, mobile computing, and a number of programming languages for over 20 years. Previously worked as Technical Pre-Sales consultant in wireless middleware technologies and as a developer both within industry and as a consultant.",
+      "CoverImage": "ashley",
+      "lat": 53.170494,
+      "long": -2.353007
+    },
+    {
+      "Lecturer": "Matthew Great",
+      "Title": "Game Application Development",
+      "code": "COWB70385-2022-SPG2-2022-SPG2",
+      "Description": "Taught software engineering, system modelling and design, mobile computing, and a number of programming languages for over 20 years. Previously worked as Technical Pre-Sales consultant in wireless middleware technologies and as a developer both within industry and as a consultant.",
+      "CoverImage": "science",
+      "lat": 53.170494,
+      "long": -2.353007
+    },
+    {
+      "Lecturer": "George Kingsley",
+      "Title": "Research Application Development",
+      "code": "COWB70395-2022-SPG2-2022-SPG2",
+      "Description": "Taught software engineering, system modelling and design, mobile computing, and a number of programming languages for over 20 years. Previously worked as Technical Pre-Sales consultant in wireless middleware technologies and as a developer both within industry and as a consultant.",
+      "CoverImage": "beacon",
+      "lat": 53.170494,
+      "long": -2.353007
+    }
+  ]
+}

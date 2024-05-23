@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StaffApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+    <string name="notes">Notes</string>
+    <string name="click_on_mic_to_speak">Click on Mic to speak</string>
+    <string name="click_me">Click Me</string>
+    <string name="output_will_appear_here">Output will appear here</string>
+
+</resources>

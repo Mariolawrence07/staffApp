@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923938586762",
+    "project_id": "dbstaffapp",
+    "storage_bucket": "dbstaffapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923938586762:android:ea550093bfa8c7ba6d6d73",
+        "android_client_info": {
+          "package_name": "com.example.staffapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7chjPCu63fX_jy7lufGq4XGCESXi5L-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
